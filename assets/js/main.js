@@ -14,7 +14,7 @@ document.querySelector('.year-input').oninput = () =>{
     document.querySelector('.exp-year').innerText = document.querySelector('.year-input').value;
 }
 
-document.querySelector('.cvv-input').onmouseover = () =>{
+document.querySelector('.cvv-input').onkeydown = () =>{
     document.querySelector('.front').style.transform = 'perspective(1000px) rotateY(-180deg)';
     document.querySelector('.back').style.transform = 'perspective(1000px) rotateY(0deg)';
 }
