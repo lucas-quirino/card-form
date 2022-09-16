@@ -1,4 +1,4 @@
-# Credit card form 📈
+# Card form 📈
 
 ## Fill in the form data and watch the changes happen dynamically.
 
@@ -24,4 +24,4 @@ This project is responsive.
 
 <br>
 
-![credit card form image exemple](assets/images/readme.gif)
+![card form image exemple](assets/images/readme.gif)
