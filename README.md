@@ -4,7 +4,7 @@
 
 <br>
 
-### <a href="https://credit-card-form-kxyc74r8n-lucas-quirino-dev.vercel.app/">Visit the project in Vercel.</a>
+### <a href="https://card-form-murex.vercel.app/">Visit the project in Vercel.</a>
 
 <br>
 
